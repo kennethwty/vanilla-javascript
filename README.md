@@ -2,7 +2,7 @@
 
 Following a 30-Day-Javascript Challenge by Wes Bos with No Frameworks and No Libraries!
 
-### Screenshots of the Projects
+### Screenshots of the Projects:
 
 #### Day 1 - JS Drum Kit
 This is a Javascript Drum Kit that responds by playing a sound to your specific keypresses from the listed keys.
