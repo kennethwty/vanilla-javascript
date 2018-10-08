@@ -1,6 +1,6 @@
 # Vanilla Javascript 30
 
-Build 30 simple javascript projects with pure vanilla javascript, inspired by instructor Wes Bos.
+Build 30 simple javascript projects with pure vanilla javascript, learning from instructor Wes Bos.
 
 ## Screenshots of the Projects:
 
