@@ -1,7 +1,5 @@
 # Vanilla Javascript
 
-Build 30 simple javascript projects with pure vanilla javascript, learning from instructor Wes Bos.
-
 ## Screenshots of the Projects:
 
 ### Project 1: Drum Kit - [Demo](https://kennethwty.github.io/js-drum-kit/)
